@@ -1,5 +1,5 @@
 {
-    "root": "./",
+    "root": "./docs",
     "title": "C spec brief manual",
     "author": "sanfusu@foxmail.com",
     "plugins": ["page-time"]
